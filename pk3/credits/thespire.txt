@@ -1,0 +1,75 @@
+===========================================================================
+Advanced engine needed  : ZDoom
+Primary purpose         : Single+Coop play
+===========================================================================
+Title                   : The Spire
+Filename                : thespire.wad
+Release date            : 2/23/05
+Author                  : Michael "prower" Reid
+Email Address           : prower@gmail.com
+Other Files By Author   : "The Seventh" series, Helios series, pretty much
+                          anything in the archives starting with "prwr"
+Misc. Author Info       : I don't know what to put here!!
+
+Description             : Okay, for starters:  THIS LEVEL IS LARGE.  VERY,
+                          VERY, VERY LARGE.  It has ~2400 sectors and
+                          ~2300 monsters on UV.  I would NOT recommend 
+                          playing this level if you have a really old 
+                          computer.  Second, this map is pretty hard.
+                          100% kills and secrets on skill 4 is possible,
+                          but difficult (I've done it with a lot
+                          of saving and reloading).  Other than that, it's
+                          fun with a lot of action.  So enjoy it!
+
+Additional Credits to   : "Sparky" for the sky, from NEWDSKY2.WAD
+                          Mark Klem for the music (MAP09 from Memento Mori
+                          2)
+                          
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : No
+Music                   : Yes
+Graphics                : Yes, sky texture
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+
+* Play Information *
+
+Game                    : DOOM2
+Map #                   : MAP01
+Single Player           : Designed for 
+Cooperative 2-4 Player  : Untested, but should work
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes.  UV is very hard.
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : A month or so 
+Editor(s) used          : Doombuilder 1.61.  Such a great editor.
+                          Wintex 5.0, NWT 1.3
+Known Bugs              : None 
+May Not Run With...     : Anything other than ZDoom or PRBoom
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for
+modification or reuse.  Permissions have been obtained from original 
+authors for any of their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  I have received permission from the original authors of any
+modified or included content in this file to allow further distribution.
+
+
+The Usual: ftp://archives.3dgamers.com/pub/idgames/ and mirrors
+Web sites:
+FTP sites:
+

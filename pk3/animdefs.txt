@@ -1,0 +1,2 @@
+// The Spire
+texture TSR10107 range TSR10110 tics 8

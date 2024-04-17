@@ -1,8 +1,8 @@
-Lexicon Base Authors
+Lexicon SingleMap Authors
 ---------------
-Community Chest 1: Dale E. Harris, CC1 Team, MAP15 coop fix by BLOODWOLF, MAP29 slightly modified by cubebert
+The Spire 1: Michael "prower" Reid
 
-Lexicon Base Team
+Lexicon SingleMap Team
 ------------
 Project Lead:
 MiFU

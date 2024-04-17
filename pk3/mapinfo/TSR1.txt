@@ -1,0 +1,16 @@
+// The Spire 1 Mapinfo
+
+defaultmap
+{
+	nojump
+	nocrouch
+}
+
+map TSR101 "The Spire"
+{
+	titlepatch = "CWILV00"
+	next = "VR"
+	secretnext = "VR"
+	sky1 = "TSR10238"
+	music = "D_TSR101"
+}
