@@ -1,0 +1,4 @@
+// The Spire 2: Celestial, The Sky Torn Asunder
+texture TSR20480 range TSR20483 tics 8
+flat TSR20010 range TSR20013 tics 8
+switch TSR20685 on pic TSR20725 tics 0
