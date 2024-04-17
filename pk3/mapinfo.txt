@@ -1,1 +1,2 @@
 include "mapinfo/TSR1.txt" // thespire.wad
+include "mapinfo/TSR2.txt" // thespir2.wad

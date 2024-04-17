@@ -1,0 +1,93 @@
+===========================================================================
+Advanced engine needed  : Boom-compatible, limit-removing source port
+Primary purpose         : Single+Coop play
+===========================================================================
+Title                   : The Spire 2: Celestial, The Sky Torn Asunder
+Filename                : thespir2.wad
+Release date            : 6/21/06
+Author                  : Michael "prower" Reid
+Email Address           : prower@gmail.com
+Other Files By Author   : A whole lot, but only thespire.zip is really worth
+                          downloading
+
+Description             : REALLY REALLY IMPORTANT NOTES YOU NEED TO READ!!!
+	                  - You need GOTHICTX.WAD to run this map!  Links to
+                            download it are at the end of the text file.
+			  - This map is ENORMOUS.  If you have anything less
+                            than a 1Ghz processor, don't even bother.
+                          - This is probably the hardest map ever made that
+                            isn't nuts.wad, with well over 3000 monsters on UV.
+                            That being said, I would highly recommend HMP
+                            difficulty for most players, as that is more
+                            equal to normal UV difficulties.
+
+                          Since the original "The Spire" did not, oddly
+                          enough, feature spires of any sort, Celestial
+                          takes place in and outside of an enormous tower.
+                          The map is quite non-linear, check your automap
+                          if you get lost.  Also keep in mind: ALL KEYS ARE
+                          DIFFERENT!  That means blue keycard is NOT the same
+                          as blue skullkey, etc.
+
+			  Feedback is appreciated!
+
+Additional Credits to   : Matt Dixon and the Gothic99 crew, as large sections
+                          of this map were heavily inspired by the first two
+                          Gothic99 levels.
+			  Huy Pham for Deus Vult, another large source of
+                          inspiration.
+                          Adelusion, Nick, Ola and co. for the GothicDM textures.
+			  Mark Klem for the music.
+                          The old #doomroom crew, whaddup guys
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : No
+Music                   : Yes (Memento Mori 2 Map 29 by Mark Klem)
+Graphics                : Yes (GothicDM textures, see end of text file)
+Dehacked/BEX Patch      : No
+Demos                   : No
+
+* Play Information *
+
+Game                    : DOOM2
+Map #                   : MAP01
+Single Player           : Designed for
+Cooperative 2-4 Player  : Player starts only (but should work)
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : Way too long
+Editor(s) used          : Doombuilder (ROCKS!!), Wintex for textures
+Known Bugs              : 
+May Not Run With...     : Older computers
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for
+modification or reuse.  Permissions have been obtained from original 
+authors for any of their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  I have received permission from the original authors of any
+modified or included content in this file to allow further distribution.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.3dgamers.com/pub/idgames/ and mirrors
+Web sites:
+FTP sites:
+
+* Getting the GothicDM textures *
+
+If you somehow don't already have this, check your local /idgames mirror for "/graphics/gothictx.zip".
+
+Or just go to http://www.doomworld.com/idgames/index.php?id=10203

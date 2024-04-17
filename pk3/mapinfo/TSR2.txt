@@ -1,0 +1,16 @@
+// The Spire 2: Celestial, The Sky Torn Asunder Mapinfo
+
+defaultmap
+{
+	nojump
+	nocrouch
+}
+
+map TSR201 "The Spire 2"
+{
+	titlepatch = "CWILV00"
+	next = "VR"
+	secretnext = "VR"
+	sky1 = "SKY1"
+	music = "D_TSR201"
+}
